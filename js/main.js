@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$(".navBar").fadeIn(500);
+	// $(".navBar").fadeIn(500);
 	$(".greeter").fadeIn(500);
 })
 
